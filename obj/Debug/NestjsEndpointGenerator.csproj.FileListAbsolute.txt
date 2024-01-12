@@ -1,0 +1,8 @@
+C:\Users\Kenni Kristiansen\Downloads\Fivem\NestjsEndpointGenerator\bin\Debug\NestjsEndpointGenerator.exe.config
+C:\Users\Kenni Kristiansen\Downloads\Fivem\NestjsEndpointGenerator\bin\Debug\NestjsEndpointGenerator.exe
+C:\Users\Kenni Kristiansen\Downloads\Fivem\NestjsEndpointGenerator\bin\Debug\NestjsEndpointGenerator.pdb
+C:\Users\Kenni Kristiansen\Downloads\Fivem\NestjsEndpointGenerator\obj\Debug\NestjsEndpointGenerator.csproj.AssemblyReference.cache
+C:\Users\Kenni Kristiansen\Downloads\Fivem\NestjsEndpointGenerator\obj\Debug\NestjsEndpointGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kenni Kristiansen\Downloads\Fivem\NestjsEndpointGenerator\obj\Debug\NestjsEndpointGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Kenni Kristiansen\Downloads\Fivem\NestjsEndpointGenerator\obj\Debug\NestjsEndpointGenerator.exe
+C:\Users\Kenni Kristiansen\Downloads\Fivem\NestjsEndpointGenerator\obj\Debug\NestjsEndpointGenerator.pdb
